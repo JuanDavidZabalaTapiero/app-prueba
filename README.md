@@ -8,5 +8,5 @@ Este es un proyecto simple que busca mejorar cada día
 
 ## 🗄️ Estructura
 
-* COMMIT_GUIDELINES.md: define el formato y las reglas para escribir mensajes de commit
-* assets/: contiene recursos estáticos como íconos.
+* `COMMIT_GUIDELINES.md`: define el formato y las reglas para escribir mensajes de commit
+* `assets/`: contiene recursos estáticos como íconos.
