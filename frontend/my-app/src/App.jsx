@@ -1,9 +1,13 @@
+import { Title } from 'react-head'
+
 function App() {
   return (
-    <main className="container text-center py-5">
+    <>
+      <Title>Inicio</Title>
+
       <h1 className="display-4">Hola</h1>
-      <button className="btn btn-primary mt-3">Aceptar</button>
-    </main>
+      <button className="btn btn-primary mt-3">¿Qué tal?</button>
+    </>
   )
 }
 

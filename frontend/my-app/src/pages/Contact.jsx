@@ -1,8 +1,12 @@
+import { Title } from 'react-head'
+
 function Contact() {
     return (
-        <main className="container text-center py-5">
+        <>
+            <Title>Contácto</Title>
+
             <h1 className="display-4">Contácto</h1>
-        </main>
+        </>
     )
 }
 
