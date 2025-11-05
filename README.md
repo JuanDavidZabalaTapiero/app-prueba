@@ -25,6 +25,10 @@ frontend/my-app/
 ├─ src/
 │  ├─ assets/
 │  │  └─ react.svg
+│  ├─ components/
+│  │  └─ Header.jsx
+│  ├─ layouts/
+│  │  └─ Layout.jsx
 │  ├─ pages/
 │  │  └─ Contact.jsx
 │  ├─ styles/
