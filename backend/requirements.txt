@@ -1,0 +1,16 @@
+# driver para conexión con db
+psycopg2-binary
+# leer variables de entorno (.env)
+python-dotenv
+
+# validar datos
+pydantic-settings
+
+# fastapi
+fastapi
+# ejecutar server
+uvicorn[standard]
+
+
+# versionar db
+alembic

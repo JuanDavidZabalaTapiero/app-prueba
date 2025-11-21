@@ -5,7 +5,7 @@ function Contact() {
         <>
             <Title>Contácto</Title>
 
-            <h1 className="display-4">Contácto</h1>
+            <h1 className="display-4 text-center">Contácto</h1>
         </>
     )
 }

@@ -1,12 +1,14 @@
 import { Title } from 'react-head'
+import UserForm from './components/UserForm'
 
 function App() {
   return (
     <>
       <Title>Inicio</Title>
 
-      <h1 className="display-4">Hola</h1>
-      <button className="btn btn-primary mt-3">¿Qué tal?</button>
+      <h1 className="display-4 text-center">Hola</h1>
+
+      <UserForm />
     </>
   )
 }
